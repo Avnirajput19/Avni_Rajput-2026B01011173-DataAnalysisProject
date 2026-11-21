@@ -21,6 +21,7 @@ The project is created as a beginner-level practice project to understand how re
 - Python
 - Pandas
 - Jupyter Notebook
+- Kaggle (to download data)
 
 # Dataset
 
