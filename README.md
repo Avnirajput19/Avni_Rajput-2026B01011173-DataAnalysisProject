@@ -1,7 +1,7 @@
 # Avni_Rajput-2026B01011173-DataAnalysisProject
 Titanic Dataset – Data Cleaning and Exploratory Data Analysis using Pandas
 
-#Project Overview
+# Project Overview
 
 This project focuses on understanding and analysing the Titanic dataset using Python and the Pandas library. It involves basic data cleaning, data manipulation, and Exploratory Data Analysis (EDA) to understand the dataset and identify useful patterns.
 
